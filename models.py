@@ -3,6 +3,7 @@
 
 
 from django.db import models
+from rapidsms.models import ExtensibleModelBase
 from rapidsms.models import Contact
 from rapidsms.contrib.locations.models import Location
 
