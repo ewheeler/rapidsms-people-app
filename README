@@ -1,0 +1,3 @@
+RapidSMS app for representing and managing people:
+    - basic models that can be extended by your app using RapidSMS extensions
+    - intended to be used for saving information regarding patients, beneficiaries, etc that do not interact with RapidSMS
